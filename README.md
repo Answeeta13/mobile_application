@@ -105,4 +105,43 @@ assets/
     ├── Book6.png
     └── Book7.png
 ```
+## How to Run the Project
 
+### 1. Install Flutter
+
+
+Check Flutter installation using:
+
+```bash
+flutter doctor
+```
+
+---
+
+### 2. Open the Project
+
+Open this project folder in VS Code.
+
+---
+
+### 3. Get Dependencies
+
+Run this command:
+
+```bash
+flutter pub get
+```
+
+---
+
+### 4. Run on Chrome/Web
+
+Run this command:
+
+```bash
+flutter run -d chrome
+```
+
+This will launch the app in Chrome.
+
+---
